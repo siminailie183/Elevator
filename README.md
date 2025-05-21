@@ -31,7 +31,11 @@ Made by
 
 ## Video presentation
 
-<iframe width="964" height="542" src="https://www.youtube.com/embed/UvBWvgs_Ewk" title="Gummie Candy, Croissants, Sandwich Cookies, &amp; More Snacks | How It&#39;s Made | Science Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<section align=center>
+<a href="https://drive.google.com/file/d/13LjGe4T5qhT6jfqI5XtPJP26kvfwUyvW/view?usp=sharing">
+<img src="ThumbnailPlay.png" height=350 alt="Presentation">
+</a>
+</section>
 
 ## Contributions
 
