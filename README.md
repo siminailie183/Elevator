@@ -31,7 +31,7 @@ Made by
 
 ## Video presentation
 
-???
+<iframe width="964" height="542" src="https://www.youtube.com/embed/UvBWvgs_Ewk" title="Gummie Candy, Croissants, Sandwich Cookies, &amp; More Snacks | How It&#39;s Made | Science Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Contributions
 
@@ -211,7 +211,7 @@ Image 5. Cable manangement and final testing
 
 ### The code
 
-<a href="ElevatorFinalCode.ino">Here you can download the code for yourself</a>
+<a href="ElevatorFinalCode.ino">Here you can check out the code for yourself</a>
 
 We used the Arduino IDE for
 
